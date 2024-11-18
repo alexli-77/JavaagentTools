@@ -1,0 +1,563 @@
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.filefilter.FileFilterTest [test Method] : testFileEqualsFilter [Clent class] : org.apache.commons.io.filefilter.AbstractFilterTest [ArrayList Method] : add [MethodCall line number]: 142 [in] assertFooBarFileFiltering
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.filefilter.FileFilterTest [test Method] : testFileEqualsFilter [Clent class] : org.apache.commons.io.filefilter.AbstractFilterTest [ArrayList Method] : add [MethodCall line number]: 143 [in] assertFooBarFileFiltering
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.filefilter.FileFilterTest [test Method] : testNameFilter [Clent class] : org.apache.commons.io.filefilter.AbstractFilterTest [ArrayList Method] : add [MethodCall line number]: 142 [in] assertFooBarFileFiltering
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.filefilter.FileFilterTest [test Method] : testNameFilter [Clent class] : org.apache.commons.io.filefilter.AbstractFilterTest [ArrayList Method] : add [MethodCall line number]: 143 [in] assertFooBarFileFiltering
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.filefilter.FileFilterTest [test Method] : testPathEqualsFilter [Clent class] : org.apache.commons.io.filefilter.AbstractFilterTest [ArrayList Method] : add [MethodCall line number]: 142 [in] assertFooBarFileFiltering
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.filefilter.FileFilterTest [test Method] : testPathEqualsFilter [Clent class] : org.apache.commons.io.filefilter.AbstractFilterTest [ArrayList Method] : add [MethodCall line number]: 143 [in] assertFooBarFileFiltering
+[ERROR][24-11-12][transtormers.TransformImp]ArraysList invokes : 6 times in org.apache.commons.io.filefilter.FileFilterTest
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.input.ReversedLinesFileReaderSimpleTest [test Method] : testLineCount [Clent class] : org.apache.commons.io.input.ReversedLinesFileReader [ArrayList Method] : add [MethodCall line number]: 518 [in] readLines
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.input.ReversedLinesFileReaderSimpleTest [test Method] : testLineCount [Clent class] : org.apache.commons.io.input.ReversedLinesFileReader [ArrayList Method] : add [MethodCall line number]: 518 [in] readLines
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.input.ReversedLinesFileReaderSimpleTest [test Method] : testLineCount [Clent class] : org.apache.commons.io.input.ReversedLinesFileReader [ArrayList Method] : add [MethodCall line number]: 518 [in] readLines
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.input.ReversedLinesFileReaderSimpleTest [test Method] : testLineCount [Clent class] : org.apache.commons.io.input.ReversedLinesFileReader [ArrayList Method] : add [MethodCall line number]: 518 [in] readLines
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.input.ReversedLinesFileReaderSimpleTest [test Method] : testToString [Clent class] : org.apache.commons.io.input.ReversedLinesFileReader [ArrayList Method] : add [MethodCall line number]: 518 [in] readLines
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.input.ReversedLinesFileReaderSimpleTest [test Method] : lambda$testLineCount$0 [Clent class] : org.apache.commons.io.input.ReversedLinesFileReader [ArrayList Method] : add [MethodCall line number]: 518 [in] readLines
+[ERROR][24-11-12][transtormers.TransformImp]ArraysList invokes : 6 times in org.apache.commons.io.input.ReversedLinesFileReaderSimpleTest
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1545 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1549 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1551 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : add [MethodCall line number]: 1559 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp][test class] : org.apache.commons.io.FilenameUtilsWildcardTest [test Method] : testSplitOnTokens [Clent class] : org.apache.commons.io.FilenameUtils [ArrayList Method] : toArray [MethodCall line number]: 1562 [in] splitOnTokens
+[ERROR][24-11-12][transtormers.TransformImp]ArraysList invokes : 50 times in org.apache.commons.io.FilenameUtilsWildcardTest
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
+[DEBUG][24-11-12][org.example.AgentApplication]=========premain方法执行========
+[ERROR][24-11-12][transtormers.TransformImp]0 invocation of ArrayList
